@@ -1,8 +1,8 @@
 # Site settings
-title: 猫狗窝
+title: BPJ
 header-img: "img/mimi.jpg"
-tagline: "喵汪汪汪喵"  
-description: "睡醒了 又是一条好汉"  
+tagline: "哔哔伾伾唧唧"  
+description: "睡醒了 又是一条懒汉"  
 baseurl: ""
 url: ""  
 #url: "http://localhost:4000"
@@ -22,7 +22,7 @@ twitter_username:
 github_username: hunshiouren
 facebook_username:  
 weibo_username: 喵汪汪汪喵
-zhihu_username: 李欣
+zhihu_username: \(^o^)/~
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -61,7 +61,7 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Ollie
+    short_name : Olle
   disqus :
       short_name : Ollie
 
